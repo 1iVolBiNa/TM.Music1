@@ -1,0 +1,6 @@
+owner=483961533777444874
+prefix=o 
+game= Plus Music | oplay
+stayinchannel=true
+songinstatus=false
+token=NTcwMjE4NzQ2MjEyMjUzNjk2.XL8Afg.J-yUjzO5In81O3awV_CTVA6KnFU
